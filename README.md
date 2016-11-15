@@ -1,6 +1,6 @@
 # adventure
 
-FIXME: description
+Here is where you will document your adventure game!
 
 ## Installation
 
