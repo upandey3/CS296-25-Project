@@ -191,7 +191,8 @@ Riddler: It's simple. Accept my challenge, find the crystal room and pick up the
 	:leafroom  {:desc "
 You see a dark trail ahead of you filled with plants. It's dead silent. You proceed to walk through it. 
 Huh.. this seems easy enough. SUDDENLY YOU ARE ATTACKED BY GIANT TREE BRANCH! You go flying back and land
-on the wet mud, and the mud starts to engulf you. You must use of the three crystals you possess NOW!
+on the wet mud, and the mud starts to engulf you. You must use one of the three crystals ('red', 'green',
+or 'blue') NOW!
 
 "
 				:title "on the Poison Ivy's trail"
