@@ -14,6 +14,8 @@ To read the instructions, say 'lookup'.
 
 Summary: This game has 25 rooms, 33 commands, 14 objects, state-association with rooms, an interactive puzzle, and
 		 various object-dependent obstacles.
+		 
+The official project for this course is to write a small text adventure game in Clojure.
 
 Requirements
 
