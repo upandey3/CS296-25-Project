@@ -4,8 +4,14 @@
 # Muhammad Singdi singdi2
 
 Instructions
+To clone the repository:
+git clone https://github.com/upandey3/CS296-25-Project.git
 
-Use lowercase, single-word or double-word commands. For directions use, north, south, east, west, up, down.
+To start the game:
+Change directory to /src/adventure and type "lein run"
+
+To play the game:
+Use lowercase, single-word or double-word commands. For directions use north, south, east, west, up, down.
 To pick items simply mention them. Read the description of the room for 'hints'. For example, 
 to open the door, say 'door'.
 To repeat the description of a room, say 'look'.
@@ -14,7 +20,7 @@ To read the instructions, say 'lookup'.
 
 Summary: This game has 25 rooms, 33 commands, 14 objects, state-association with rooms, an interactive puzzle, and
 		 various object-dependent obstacles.
-		 
+
 The official project for this course is to write a small text adventure game in Clojure.
 
 Requirements
